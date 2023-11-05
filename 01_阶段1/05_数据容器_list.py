@@ -62,7 +62,7 @@ print(demo_list)
 demo_list.extend(["1", "2", "3"])
 print(demo_list)
 
-# 6 删除指定下表索引的元素
+# 6 删除指定下表索引的元素,2种方式
 demo_list2 = ['java', 'best', 'go', 'python', 'hello', '1', '2', '3']
 
 # 6.1 方式一 ：del 列表[下标]
